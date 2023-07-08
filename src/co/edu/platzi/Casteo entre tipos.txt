@@ -1,0 +1,17 @@
+-> Conversión Automatica <-
+byte -> short
+short -> int
+char -> int
+int -> long
+long -> float
+float -> double
+
+-> Casteo Necesario <-
+double -> float
+float -> long
+long -> int
+int -> short
+short -> byte
+char <-> byte
+char <-> short
+int -> char
